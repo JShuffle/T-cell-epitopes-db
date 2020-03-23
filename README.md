@@ -1,4 +1,4 @@
-![T-cell-epitopes-db](https://jshuffle.github.io/T-cell-epitopes-db/)
+[T-cell-epitopes-db](https://jshuffle.github.io/T-cell-epitopes-db/)
 
 1.About the TCED
 
